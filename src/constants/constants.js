@@ -1,5 +1,14 @@
 export const projects = [
   {
+    title: 'Arindam-Portfolio',
+    description: "This is a Personal Portfolio using React.js and Next.js.",
+    image: '/images/0.jpg',
+    tags: ['HTML CSS Javascript', ' React.js', ' Next.js'],
+    source: 'https://arindamgoswami-portfolio.vercel.app/',
+    visit: 'https://github.com/Arindam2209/Arindam-Portfolio',
+    id: 0,
+  },
+  {
     title: 'Crypto-Verse',
     description: "THis is a React based Crypto-currency App powered by RapidAPI providing all the necessary information and news about the cryptocurrency market.",
     image: '/images/1.jpg',
